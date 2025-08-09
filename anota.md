@@ -5,6 +5,6 @@
 3. git status
 4. git branch -M main
 5. git commit -m "primeira versão"
-6. 
+6. git push
 
 # Documentação do Todo
